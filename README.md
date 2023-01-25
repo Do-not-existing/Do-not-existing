@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱  HTML, CSS, JS
-- 💬 Atualmente estou estudando Front-End 
-- 📫 H HelenaFernandes7@gmail.com
+- 🌱 Linguagens que estou estudando: HTML, CSS, JS
+- 👍 O que ando fazendo: Atualmente estou estudando Front-End 
+- 📫 contato: HelenaFernandes7@gmail.com
 - 😄 Pronouns: ela/dela
 -->
